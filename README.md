@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAE49VQYWwI/B8GjqJmj_HzKVvQwDtCzKg/view?utm_content=DAE49VQYWwI&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)
+[![MasterHead](http://rksinfotech.com/wp-content/uploads/2019/09/web_designing.gif)
 <h1 align="center">Hi 👋, I'm Akshay Gore</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
